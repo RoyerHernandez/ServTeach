@@ -1,0 +1,17 @@
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\bin\Debug\netstandard2.0\AppServSolTea.deps.json
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\bin\Debug\netstandard2.0\AppServSolTea.dll
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\bin\Debug\netstandard2.0\AppServSolTea.pdb
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\AppServSolTea.csprojAssemblyReference.cache
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\AppServSolTea.csproj.CoreCompileInputs.cache
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\AppServSolTea.AssemblyInfoInputs.cache
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\AppServSolTea.AssemblyInfo.cs
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\AppServSolTea.dll
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\AppServSolTea.pdb
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\Detail.xaml.g.cs
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\Master.xaml.g.cs
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\PageA.xaml.g.cs
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\PageB.xaml.g.cs
+C:\Users\royer.hernandez\source\repos\AppServSolTea\AppServSolTea\AppServSolTea\obj\Debug\netstandard2.0\Estudiantes.xaml.g.cs
